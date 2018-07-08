@@ -1,4 +1,4 @@
-package lfq.ima;
+package lfq.ima.avl;
 
 
 public class Tree{
@@ -8,6 +8,8 @@ public class Tree{
     private Tree rChild;
     //给二叉树节点一个int型的数据
     private Integer value;
+    //二叉树的高度
+    public int height;
 
 
 

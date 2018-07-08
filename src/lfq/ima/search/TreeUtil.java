@@ -1,4 +1,4 @@
-package lfq.ima;
+package lfq.ima.search;
 
 import java.util.Stack;
 
